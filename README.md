@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuryaIsukapalli
 - 👀 I’m interested in Knowing and learning about new technologies
-- 🌱 I’m currently learning full stack product engineering at niit stackroute
+- 🌱 I’m a skilled and trained full stack product engineering from niit stackroute
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me out 
 - email:isukapallisurya9@gmail.om
